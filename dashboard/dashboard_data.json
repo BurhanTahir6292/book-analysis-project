@@ -13,8 +13,8 @@
     "CoverColor": "#6366f1",
     "Numeric Rating": 3,
     "Price": 51.77,
-    "Review_Text": "It was okay. Nothing spectacular but not bad.",
-    "Sentiment_Polarity": 0.48333333333333334,
+    "Review_Text": "Neutral feelings about this one. It's fine.",
+    "Sentiment_Polarity": 0.4166666666666667,
     "Sentiment_Class": "Positive",
     "Emotion": "Neutral"
   },
@@ -32,9 +32,9 @@
     "CoverColor": "#ec4899",
     "Numeric Rating": 1,
     "Price": 53.74,
-    "Review_Text": "I hated it. Stopped reading after chapter two.",
-    "Sentiment_Polarity": -0.9,
-    "Sentiment_Class": "Negative",
+    "Review_Text": "Completely nonsensical. Zero redeeming qualities.",
+    "Sentiment_Polarity": 0.3,
+    "Sentiment_Class": "Positive",
     "Emotion": "Anger"
   },
   {
@@ -70,8 +70,8 @@
     "CoverColor": "#dc2626",
     "Numeric Rating": 4,
     "Price": 47.82,
-    "Review_Text": "Great book, really enjoyed it.",
-    "Sentiment_Polarity": 0.65,
+    "Review_Text": "Solid and entertaining. Would read again.",
+    "Sentiment_Polarity": 0.25,
     "Sentiment_Class": "Positive",
     "Emotion": "Joy"
   },
@@ -108,8 +108,8 @@
     "CoverColor": "#9333ea",
     "Numeric Rating": 1,
     "Price": 22.65,
-    "Review_Text": "I hated it. Stopped reading after chapter two.",
-    "Sentiment_Polarity": -0.9,
+    "Review_Text": "Terrible book. Do not waste your time.",
+    "Sentiment_Polarity": -0.45,
     "Sentiment_Class": "Negative",
     "Emotion": "Anger"
   },
@@ -127,8 +127,8 @@
     "CoverColor": "#16a34a",
     "Numeric Rating": 4,
     "Price": 33.34,
-    "Review_Text": "Great book, really enjoyed it.",
-    "Sentiment_Polarity": 0.65,
+    "Review_Text": "Solid and entertaining. Would read again.",
+    "Sentiment_Polarity": 0.25,
     "Sentiment_Class": "Positive",
     "Emotion": "Joy"
   },
@@ -146,8 +146,8 @@
     "CoverColor": "#be185d",
     "Numeric Rating": 3,
     "Price": 17.93,
-    "Review_Text": "Neutral feelings about this one. It's fine.",
-    "Sentiment_Polarity": 0.4166666666666667,
+    "Review_Text": "It was okay. Nothing spectacular but not bad.",
+    "Sentiment_Polarity": 0.48333333333333334,
     "Sentiment_Class": "Positive",
     "Emotion": "Neutral"
   },
@@ -165,8 +165,8 @@
     "CoverColor": "#2563eb",
     "Numeric Rating": 4,
     "Price": 22.6,
-    "Review_Text": "Very good read, though the pacing was a bit slow in the middle.",
-    "Sentiment_Polarity": 0.20333333333333328,
+    "Review_Text": "I liked it a lot. Good characters and plot.",
+    "Sentiment_Polarity": 0.6499999999999999,
     "Sentiment_Class": "Positive",
     "Emotion": "Joy"
   },
@@ -184,8 +184,8 @@
     "CoverColor": "#374151",
     "Numeric Rating": 1,
     "Price": 52.15,
-    "Review_Text": "Terrible book. Do not waste your time.",
-    "Sentiment_Polarity": -0.45,
+    "Review_Text": "I hated it. Stopped reading after chapter two.",
+    "Sentiment_Polarity": -0.9,
     "Sentiment_Class": "Negative",
     "Emotion": "Anger"
   },
@@ -222,8 +222,8 @@
     "CoverColor": "#92400e",
     "Numeric Rating": 4,
     "Price": 20.66,
-    "Review_Text": "Great book, really enjoyed it.",
-    "Sentiment_Polarity": 0.65,
+    "Review_Text": "I liked it a lot. Good characters and plot.",
+    "Sentiment_Polarity": 0.6499999999999999,
     "Sentiment_Class": "Positive",
     "Emotion": "Joy"
   },
@@ -279,8 +279,8 @@
     "CoverColor": "#1e40af",
     "Numeric Rating": 5,
     "Price": 35.02,
-    "Review_Text": "Incredible read, totally worth the price.",
-    "Sentiment_Polarity": 0.6,
+    "Review_Text": "Absolutely amazing! I couldn't put it down.",
+    "Sentiment_Polarity": 0.2972222222222223,
     "Sentiment_Class": "Positive",
     "Emotion": "Joy"
   },
@@ -298,10 +298,10 @@
     "CoverColor": "#115e59",
     "Numeric Rating": 3,
     "Price": 57.25,
-    "Review_Text": "An average read. Had some good moments.",
-    "Sentiment_Polarity": 0.27499999999999997,
+    "Review_Text": "It was okay. Nothing spectacular but not bad.",
+    "Sentiment_Polarity": 0.48333333333333334,
     "Sentiment_Class": "Positive",
-    "Emotion": "Joy"
+    "Emotion": "Neutral"
   },
   {
     "id": 17,
@@ -317,8 +317,8 @@
     "CoverColor": "#6d28d9",
     "Numeric Rating": 1,
     "Price": 23.88,
-    "Review_Text": "I hated it. Stopped reading after chapter two.",
-    "Sentiment_Polarity": -0.9,
+    "Review_Text": "Awful. The worst thing I have ever read.",
+    "Sentiment_Polarity": -1.0,
     "Sentiment_Class": "Negative",
     "Emotion": "Anger"
   },
@@ -336,8 +336,8 @@
     "CoverColor": "#1d4ed8",
     "Numeric Rating": 1,
     "Price": 37.59,
-    "Review_Text": "Awful. The worst thing I have ever read.",
-    "Sentiment_Polarity": -1.0,
+    "Review_Text": "I hated it. Stopped reading after chapter two.",
+    "Sentiment_Polarity": -0.9,
     "Sentiment_Class": "Negative",
     "Emotion": "Anger"
   },
@@ -355,10 +355,10 @@
     "CoverColor": "#b45309",
     "Numeric Rating": 2,
     "Price": 51.33,
-    "Review_Text": "Below average. Wouldn't really recommend it.",
-    "Sentiment_Polarity": 0.02500000000000001,
-    "Sentiment_Class": "Neutral",
-    "Emotion": "Disappointment"
+    "Review_Text": "Struggled to finish it. The writing was dull.",
+    "Sentiment_Polarity": -0.2916666666666667,
+    "Sentiment_Class": "Negative",
+    "Emotion": "Sadness"
   },
   {
     "id": 20,
@@ -393,8 +393,8 @@
     "CoverColor": "#1e293b",
     "Numeric Rating": 5,
     "Price": 18.0,
-    "Review_Text": "Absolutely amazing! I couldn't put it down.",
-    "Sentiment_Polarity": 0.2972222222222223,
+    "Review_Text": "Fantastic! Five stars all the way.",
+    "Sentiment_Polarity": 0.5,
     "Sentiment_Class": "Positive",
     "Emotion": "Joy"
   },
@@ -412,8 +412,8 @@
     "CoverColor": "#854d0e",
     "Numeric Rating": 4,
     "Price": 32.4,
-    "Review_Text": "Great book, really enjoyed it.",
-    "Sentiment_Polarity": 0.65,
+    "Review_Text": "Solid and entertaining. Would read again.",
+    "Sentiment_Polarity": 0.25,
     "Sentiment_Class": "Positive",
     "Emotion": "Joy"
   },
@@ -431,10 +431,10 @@
     "CoverColor": "#166534",
     "Numeric Rating": 3,
     "Price": 14.5,
-    "Review_Text": "It was okay. Nothing spectacular but not bad.",
-    "Sentiment_Polarity": 0.48333333333333334,
+    "Review_Text": "An average read. Had some good moments.",
+    "Sentiment_Polarity": 0.27499999999999997,
     "Sentiment_Class": "Positive",
-    "Emotion": "Neutral"
+    "Emotion": "Joy"
   },
   {
     "id": 24,
@@ -450,8 +450,8 @@
     "CoverColor": "#7e22ce",
     "Numeric Rating": 4,
     "Price": 24.99,
-    "Review_Text": "Very good read, though the pacing was a bit slow in the middle.",
-    "Sentiment_Polarity": 0.20333333333333328,
+    "Review_Text": "I liked it a lot. Good characters and plot.",
+    "Sentiment_Polarity": 0.6499999999999999,
     "Sentiment_Class": "Positive",
     "Emotion": "Joy"
   },
@@ -469,10 +469,10 @@
     "CoverColor": "#92400e",
     "Numeric Rating": 2,
     "Price": 19.99,
-    "Review_Text": "Disappointing. The plot holes were too obvious.",
-    "Sentiment_Polarity": -0.3,
+    "Review_Text": "Struggled to finish it. The writing was dull.",
+    "Sentiment_Polarity": -0.2916666666666667,
     "Sentiment_Class": "Negative",
-    "Emotion": "Disappointment"
+    "Emotion": "Sadness"
   },
   {
     "id": 26,
@@ -526,8 +526,8 @@
     "CoverColor": "#b45309",
     "Numeric Rating": 4,
     "Price": 21.0,
-    "Review_Text": "Great book, really enjoyed it.",
-    "Sentiment_Polarity": 0.65,
+    "Review_Text": "I liked it a lot. Good characters and plot.",
+    "Sentiment_Polarity": 0.6499999999999999,
     "Sentiment_Class": "Positive",
     "Emotion": "Joy"
   },
@@ -545,8 +545,8 @@
     "CoverColor": "#1e40af",
     "Numeric Rating": 5,
     "Price": 38.0,
-    "Review_Text": "One of the best books I've read this year.",
-    "Sentiment_Polarity": 1.0,
+    "Review_Text": "A masterpiece. Highly recommended to everyone.",
+    "Sentiment_Polarity": 0.16,
     "Sentiment_Class": "Positive",
     "Emotion": "Joy"
   },
@@ -564,8 +564,8 @@
     "CoverColor": "#be185d",
     "Numeric Rating": 5,
     "Price": 22.0,
-    "Review_Text": "Fantastic! Five stars all the way.",
-    "Sentiment_Polarity": 0.5,
+    "Review_Text": "One of the best books I've read this year.",
+    "Sentiment_Polarity": 1.0,
     "Sentiment_Class": "Positive",
     "Emotion": "Joy"
   },
@@ -583,8 +583,8 @@
     "CoverColor": "#7f1d1d",
     "Numeric Rating": 4,
     "Price": 28.5,
-    "Review_Text": "Great book, really enjoyed it.",
-    "Sentiment_Polarity": 0.65,
+    "Review_Text": "Solid and entertaining. Would read again.",
+    "Sentiment_Polarity": 0.25,
     "Sentiment_Class": "Positive",
     "Emotion": "Joy"
   },
@@ -659,8 +659,8 @@
     "CoverColor": "#5b21b6",
     "Numeric Rating": 4,
     "Price": 20.4,
-    "Review_Text": "Solid and entertaining. Would read again.",
-    "Sentiment_Polarity": 0.25,
+    "Review_Text": "Great book, really enjoyed it.",
+    "Sentiment_Polarity": 0.65,
     "Sentiment_Class": "Positive",
     "Emotion": "Joy"
   },
@@ -678,10 +678,10 @@
     "CoverColor": "#3f3f46",
     "Numeric Rating": 2,
     "Price": 17.8,
-    "Review_Text": "Below average. Wouldn't really recommend it.",
-    "Sentiment_Polarity": 0.02500000000000001,
-    "Sentiment_Class": "Neutral",
-    "Emotion": "Disappointment"
+    "Review_Text": "Struggled to finish it. The writing was dull.",
+    "Sentiment_Polarity": -0.2916666666666667,
+    "Sentiment_Class": "Negative",
+    "Emotion": "Sadness"
   },
   {
     "id": 37,
@@ -697,10 +697,10 @@
     "CoverColor": "#78350f",
     "Numeric Rating": 2,
     "Price": 12.5,
-    "Review_Text": "Not my cup of tea. Felt dragged out.",
-    "Sentiment_Polarity": 0.0,
-    "Sentiment_Class": "Neutral",
-    "Emotion": "Sadness"
+    "Review_Text": "Disappointing. The plot holes were too obvious.",
+    "Sentiment_Polarity": -0.3,
+    "Sentiment_Class": "Negative",
+    "Emotion": "Disappointment"
   },
   {
     "id": 38,
@@ -754,8 +754,8 @@
     "CoverColor": "#db2777",
     "Numeric Rating": 5,
     "Price": 25.27,
-    "Review_Text": "Incredible read, totally worth the price.",
-    "Sentiment_Polarity": 0.6,
+    "Review_Text": "Absolutely amazing! I couldn't put it down.",
+    "Sentiment_Polarity": 0.2972222222222223,
     "Sentiment_Class": "Positive",
     "Emotion": "Joy"
   }
